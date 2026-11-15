@@ -6,7 +6,7 @@ Team **Astrovibes** — NASA Space Apps Challenge 2026, Multan, Pakistan
 
 Challenge: [Create Health Monitoring Software for Astronauts on Space Missions](https://www.spaceappschallenge.org/2026/challenges/health-monitoring-software/)
 
-> **Live demo:** link added after deployment (Google AI Studio).
+> **Live demo:** https://astrocare-ai.ai.studio
 > **Status:** built and tested — see [Getting Started](#getting-started).
 
 ---
