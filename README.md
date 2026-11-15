@@ -1,7 +1,7 @@
 # ASTROCARE AI
 
 **Astronaut Health Intelligence and Monitoring System**  
-Team **Cosmic Coders** — NASA Space Apps Challenge 2026
+Team **Astrovibes** — NASA Space Apps Challenge 2026
 
 ASTROCARE AI is a full-stack space health command center built with **Vanilla HTML5, CSS3, and JavaScript** on the frontend, **Node.js + Express** on the backend, **SQLite (`better-sqlite3`)** for persistent storage, **Chart.js** for telemetry analytics, and **Lucide** icons.
 
